@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">androidsuite</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Главная</string>
+    <string name="menu_at">Продвинутые курсы</string>
+    <string name="menu_kotlin">Основы Kotlin</string>
+    <string name="menu_java">Основы Java</string>
+    <string name="menu_android">Основы Android</string>
+    <string name="menu_video">Видеоуроки</string>
+
+    <string name="check_connection_text">Интернет соединение отсутствует</string>
+
+    <string name="website_domain">www.fandroid.info</string>
+    <string name="website_url">https://www.fandroid.info/</string>
+    <string name="website_urlFeedBack">https://www.fandroid.info/forma-obratnoj-svyazi/</string>
+    <string name="website_at">https://www.fandroid.info/category/prodvinutye-kursy/</string>
+    <string name="website_kotlin">https://www.fandroid.info/osnovy-kotlin-vvedenie/</string>
+    <string name="website_java">https://www.fandroid.info/tutorial-po-osnovam-yazyka-programmirovaniya-java-dlya-nachinayushhih/</string>
+    <string name="website_android">https://www.fandroid.info/category/androdid_development_tutorials/</string>
+    <string name="website_video">https://www.fandroid.info/skachat-video-uroki-po-android-programmirovaniyu-i-razrabotke-mobilnyh-prilozhenij-dlya-android-smartfonov-i-planshetov/</string>
+
+</resources>
